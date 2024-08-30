@@ -49,9 +49,13 @@
     "node": ">=18.17.0"
   },
   "dependencies": {
+    "@particle-network/aa": "^2.0.1",
+    "@particle-network/btc-connectkit": "^1.0.0-alpha.26",
+    "@particle-network/chains": "^1.6.8",
     "axios": "^1.7.4",
     "debug": "latest",
     "elliptic": "^6.5.7",
+    "ethers": "^6.13.2",
     "semver": "^7.5.2",
     "tar": "^6.2.1",
     "tough-cookie": "^4.1.3",
