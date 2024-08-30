@@ -1,4 +1,4 @@
-# Rent Hub
+# RNT-X
 
 ## Requirements
 
