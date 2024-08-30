@@ -11,15 +11,15 @@ RNT-X is a revolutionary platform designed to transform the peer-to-peer rental 
 
 Key Features:
 
-Blockchain-Powered Transactions: RNT-X guarantees secure, immutable transactions, ensuring that all rental payments, earnings, and reviews are tamper-proof and transparent.
+1-Blockchain-Powered Transactions: RNT-X guarantees secure, immutable transactions, ensuring that all rental payments, earnings, and reviews are tamper-proof and transparent.
 
-AI Inspection System with AR Technology: Users can conduct item inspections using augmented reality on their smartphones, with results securely stored on the blockchain, reducing disputes and enhancing trust.
+2-AI Inspection System with AR Technology: Users can conduct item inspections using augmented reality on their smartphones, with results securely stored on the blockchain, reducing disputes and enhancing trust.
 
-Transparent Rating and Review System: User ratings and reviews are timestamped and stored on the blockchain, ensuring authenticity and aiding informed decision-making.
+3-Transparent Rating and Review System: User ratings and reviews are timestamped and stored on the blockchain, ensuring authenticity and aiding informed decision-making.
 
-Private Verification with Zero-Knowledge Proofs (ZKPs): User, renter, and owner verification is conducted through Zero-Knowledge Proofs, ensuring that identity verification is completely private while maintaining trust and security within the platform.
+4-Private Verification with Zero-Knowledge Proofs (ZKPs): User, renter, and owner verification is conducted through Zero-Knowledge Proofs, ensuring that identity verification is completely private while maintaining trust and security within the platform.
 
-Monetization Model: Smart contracts manage revenue-sharing agreements transparently and efficiently, minimizing costs and eliminating intermediaries, while incentivizing community engagement.
+5-Monetization Model: Smart contracts manage revenue-sharing agreements transparently and efficiently, minimizing costs and eliminating intermediaries, while incentivizing community engagement.
 
 Uniqueness: RNT-X stands out with its advanced AI-driven inspections, a community-centric approach, a transparent rating system, private user verification through ZKPs, and an innovative smart contract-based monetization model. By fostering a supportive and collaborative environment, RNT-X goes beyond transactions, creating a dynamic Socialfi community where people can connect, share experiences, and engage meaningfully.
 
